@@ -1,0 +1,37 @@
+{
+  "home": "Accueil",
+  "about": "À propos",
+  "experience": "Expériences",
+  "skills": "Compétences",
+  "journal": "Journal technique",
+  "intro_presentation": "Bonjour,",
+  "prenom_nom": "Anas KADIRI",
+  "suis": "je suis",
+  "presentation": "Ingénieur informatique passionné, je transforme les idées en solutions concrètes. Chaque projet est une aventure où rigueur et exigence se rencontrent. Bienvenue dans mon monde.",
+  "contacter_moi": "Contactez-moi",
+  "aboutText": "« La créativité, c’est l’intelligence qui s’amuse. » — Albert Einstein\n\nDepuis toujours, j’ai cultivé un esprit analytique, guidé par le besoin de comprendre les choses en profondeur plutôt que de me contenter de leur apparence. Cette posture m’a naturellement orienté vers les raisonnements logiques et mathématiques, où rigueur et clarté sont essentielles.\n\nTrès tôt, j’ai été attiré par l’informatique, un domaine où la récursivité de mes réflexions trouvait un écho naturel. Chaque problème devient une structure à explorer, chaque solution une construction méthodique. Après un bac scientifique, j’ai choisi de poursuivre deux années de classe préparatoire, convaincu que la solidité des fondations intellectuelles est indispensable pour bâtir des solutions robustes.\n\nMa formation en informatique m’a permis d’acquérir une vision complète du métier : des bases théoriques aux applications concrètes, en passant par les algorithmes, les systèmes, le développement logiciel et la gestion de projet. Elle m’a aussi appris à allier précision technique et créativité, à collaborer efficacement, et à rester curieux face aux évolutions constantes du numérique.\n\nAujourd’hui, je me définis comme un ingénieur informatique passionné, capable de transformer les idées en solutions concrètes. J’aime relever les défis, structurer les pensées, et faire dialoguer logique et intuition pour créer des outils utiles, élégants et durables.",
+
+  "exp1Titre": "Ingénieur applicatif",
+  "exp1Company": "Conseil départemental",
+  "exp1Lieu": "Bobigny, France",
+  "exp1Description": "Intervention sur trois axes majeurs : projets, maintien en condition opérationnelle et apport de visibilité stratégique. Le poste implique une forte expertise technique dans le cadrage et le suivi des projets applicatifs, avec une capacité à analyser les besoins, proposer des solutions adaptées et anticiper les risques. Cela exige une solide expertise technique, notamment une maîtrise approfondie des architectures du système d'information, une grande réactivité dans la gestion des incidents, ainsi qu'une capacité à coordonner efficacement les intégrateurs sur des sujets complexes et interconnectés. Enfin, il contribue à la consolidation d’une vision macro du système d’information, permettant à la direction de mieux piloter les enjeux techniques et fonctionnels.",
+  "exp1Date": "2025 - 2028",
+  
+  "exp2Titre": "Développeur et chargé de Projet",
+  "exp2Company": "BNP Paribas Real Estate",
+  "exp2Lieu": "Boulogne-Billancourt, France",
+  "exp2Description": "Création d'interfaces utilisateur modernes et responsives.\nIntégration de designs complexes avec React et Tailwind CSS.",
+  "exp2Date": "2022 - 2023",
+  
+  "exp3Titre": "Stagiaire Développeur",
+  "exp3Company": "StartupLab",
+  "exp3Lieu": "Marseille, France",
+  "exp3Description": "Apprentissage des technologies web modernes.\nParticipation au développement de fonctionnalités frontend et backend.",
+  "exp3Date": "2021 - 2022",
+  
+  "exp4Titre": "Assistant Projet Web",
+  "exp4Company": "Digital Solutions",
+  "exp4Lieu": "Toulouse, France",
+  "exp4Description": "Support technique et maintenance de sites web.\nCollaboration avec l'équipe de développement sur divers projets clients.",
+  "exp4Date": "2020 - 2021"
+}

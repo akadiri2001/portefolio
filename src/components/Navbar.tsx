@@ -21,9 +21,9 @@ const Navbar = () => {
                 <ul className="menu menu-horizontal">
                     <li><a href="#" className="btn btn-sm btn-primary mx-1 my-1">{t("home")}</a></li>
                     <li><a href="#about" className="btn btn-sm btn-primary mx-1 my-1">{t("about")}</a></li>
-                    <li><a className="btn btn-sm btn-primary mx-1 my-1">{t("experience")}</a></li>
-                    <li><a className="btn btn-sm btn-primary mx-1 my-1">{t("skills")}</a></li>
-                    <li><a className="btn btn-sm btn-primary mx-1 my-1">{t("journal")}</a></li>
+                    <li><a href="#experience" className="btn btn-sm btn-primary mx-1 my-1">{t("experience")}</a></li>
+                    <li><a href="#skills" className="btn btn-sm btn-primary mx-1 my-1">{t("skill")}</a></li>
+                    <li><a className="btn btn-sm btn-primary mx-1 my-1">{t("journal_technique")}</a></li>
                 </ul>
             </div>
 

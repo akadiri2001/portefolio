@@ -3,16 +3,16 @@ import { useTranslation } from "react-i18next";
 import Title from "./Title";
 
 // Liste des identifiants d'expériences
-const experiences = ["exp1", "exp2", "exp3", "exp4"];
+const experiences = ["exp1", "exp2", "exp3", "exp4","exp5"];
 
 export default function Experience() {
   const { t } = useTranslation();
 
   return (
-    <div id="experience" className="p-10 mb-10 md:mb-32">
+    <div id="experience">
       <Title title={t("experience")} />
       
-      <div className="max-w-6xl mx-auto px-4">
+      <div className="max-w-6xl mx-auto px-4 p-5 pb-10">
         <div className="relative" style={{ minHeight: '100vh' }}>
           {/* Ligne de la timeline pour desktop avec flèche */}
           <div className="absolute left-1/2 -translate-x-1/2 hidden md:block" style={{ zIndex: 1, top: 0, height: '100%' }}>

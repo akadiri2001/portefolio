@@ -1,12 +1,12 @@
 interface TitleProps{
     title: string
 }
-const Title = ({title} : TitleProps) => {
-    return ( 
-        <h1 className="uppercase font-bold mb-5 text-center text-3xl">
-            {title}
-        </h1>
-    )
-}
+const Title = ({ title }: TitleProps) => {
+  return (
+    <h1 className="uppercase font-bold text-center text-3xl p-10 ">
+      {title}
+    </h1>
+  );
+};
 
 export default Title

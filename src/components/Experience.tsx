@@ -1,11 +1,14 @@
 import { useTranslation } from "react-i18next";
 import Title from "./Title";
 
-// Liste des identifiants d'expériences
-const experiences = ["exp1", "exp2", "exp3", "exp4","exp5"];
+// Liste des identifiants d'expériences (organisée chronologiquement dans le JSON)
+const experiences = ["exp1", "exp2", "exp3", "exp4"];
 
 export default function Experience() {
   const { t } = useTranslation();
+
+  // Inverser l'ordre pour afficher du plus récent au plus ancien
+  const sortedExperiences = [...experiences].reverse();
 
   return (
     <div id="experience">
@@ -32,7 +35,7 @@ export default function Experience() {
           </div>
 
           <div className="space-y-12 md:space-y-24">
-            {experiences.map((expId, index) => (
+            {sortedExperiences.map((expId, index) => (
               <div
                 key={index}
                 className={`relative flex items-center ${
@@ -51,7 +54,7 @@ export default function Experience() {
                     <div className="card-body">
                       <div className="badge badge-primary badge-outline mb-2">{t(`${expId}Date`)}</div>
                       <h2 className="card-title text-primary">{t(`${expId}Titre`)}</h2>
-                      <h3 className="font-semibold text-lg">{t(`${expId}Company`)}</h3>
+                      <h3 className="font-semibold text-lg text-justify">{t(`${expId}Company`)}</h3>
                       <p className="text-sm text-base-content opacity-70 flex items-center gap-2">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -59,7 +62,7 @@ export default function Experience() {
                         </svg>
                         {t(`${expId}Lieu`)}
                       </p>
-                      <p className="mt-4 whitespace-pre-line">{t(`${expId}Description`)}</p>
+                      <p className="mt-4 whitespace-pre-line text-justify max-w-prose mx-auto">{t(`${expId}Description`)}</p>
                     </div>
                   </div>
                 </div>

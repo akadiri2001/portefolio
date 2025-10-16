@@ -1,7 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { useState, useEffect } from "react";
 import Title from "./Title";
-import skillsData from "../locales/skills.json";
 
 const Skills = () => {
     const { t } = useTranslation();
@@ -9,18 +8,25 @@ const Skills = () => {
     const [visibleCount, setVisibleCount] = useState(6);
     const [showCollapseButton, setShowCollapseButton] = useState(false);
 
+    // Récupérer les compétences depuis le fichier de traduction
+    const skillsData = t("skills", { returnObjects: true }) as Array<{
+        titre: string;
+        domaine: string;
+        niveau: number;
+    }>;
+
     // Filtrer les compétences selon le domaine sélectionné
     const domains = ["all", ...new Set(skillsData.map(skill => skill.domaine))];
     const filteredSkills = selectedDomain === "all"
         ? skillsData
         : skillsData.filter(skill => skill.domaine === selectedDomain);
 
-    // Afficher le bouton replier dès qu'on a plus de 18 cartes visibles
+    // Afficher le bouton replier dès qu'on a plus de 6 cartes visibles
     useEffect(() => {
         setShowCollapseButton(visibleCount > 6);
     }, [visibleCount]);
 
-    // Réinitialiser à 18 quand on change de filtre
+    // Réinitialiser à 6 quand on change de filtre
     useEffect(() => {
         setVisibleCount(6);
     }, [selectedDomain]);
@@ -33,6 +39,10 @@ const Skills = () => {
         setVisibleCount(6);
         // Scroll vers la section skills
         document.getElementById('skills')?.scrollIntoView({ behavior: 'smooth' });
+    };
+
+    const handleViewAll = () => {
+        setVisibleCount(filteredSkills.length);
     };
 
     // Compétences visibles selon le nombre actuel
@@ -103,13 +113,13 @@ const Skills = () => {
                     ))}
                 </div>
 
-                {/* Bouton "Voir plus" - affiché si plus de compétences disponibles */}
+                {/* Bouton "Voir tout" - affiché si plus de compétences disponibles */}
                 {hasMore && (
                     <button
-                        onClick={() => setVisibleCount(prev => prev + 3)}
+                        onClick={handleViewAll}
                         className="btn btn-primary mt-8"
                     >
-                        {t("loadMore")} (+3)
+                        {t("viewAll")} ({filteredSkills.length})
                     </button>
                 )}
                 
@@ -121,7 +131,7 @@ const Skills = () => {
                 )}
             </div>
 
-            {/* Bouton flottant "Replier" - apparaît dès qu'on a plus de 18 cartes */}
+            {/* Bouton flottant "Replier" - apparaît dès qu'on a plus de 6 cartes */}
             {showCollapseButton && (
                 <button
                     onClick={handleCollapse}

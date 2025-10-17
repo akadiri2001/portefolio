@@ -118,7 +118,7 @@
 
 "action3Date": "Septembre 2021",
 "action3Titre": "Initiation au langage C",
-"action3Categorie": "Professionnel",
+"action3Categorie": "Scolaire",
 "action3Lieu": "Sup Galilée",
 "action3Description": "Développement d'un gestionnaire de contacts en C : manipulation de structures, pointeurs et mémoire dynamique.",
 
@@ -178,8 +178,8 @@
 
 "action13Date": "Mai 2024",
 "action13Titre": "Réalisation d'un morpion avec IA en langage C",
-"action13Categorie": "Professionnel",
-"action13Lieu": "BNP Paribas Real Estate",
+"action13Categorie": "Scolaire",
+"action13Lieu": "Sup Galilée",
 "action13Description": "Ce projet implémente un jeu de morpion (tic-tac-toe) en ligne de commande avec une intelligence artificielle qui apprend par renforcement.",
 
 "action14Date": "Juin 2024",
@@ -208,7 +208,7 @@
 
 "action18Date": "2025",
 "action18Titre": "Accompagnement Mathématiques",
-"action18Categorie": "Personel",
+"action18Categorie": "Scolaire",
 "action18Lieu": "SupGalilée",
 "action18Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur." 
 }

@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import Title from "./Title";
 
-// Liste des identifiants d'expériences (organisée chronologiquement dans le JSON)
+// Liste des identifiants d'expériences
 const experiences = ["exp1", "exp2", "exp3", "exp4"];
 
 export default function Experience() {
@@ -35,7 +35,12 @@ export default function Experience() {
           </div>
 
           <div className="space-y-12 md:space-y-24">
-            {sortedExperiences.map((expId, index) => (
+            {sortedExperiences.map((expId, index) => {
+              // Extraire le numéro de l'ID (exp1 -> 1)
+              const companyNumber = expId.replace('exp', '');
+              const logoPath = `companies/${companyNumber}.png`;
+              
+              return (
               <div
                 key={index}
                 className={`relative flex items-center ${
@@ -52,9 +57,22 @@ export default function Experience() {
                 <div className={`w-full md:w-1/2 ${index % 2 === 0 ? 'md:pl-12' : 'md:pr-12'} pl-16`}>
                   <div className="card bg-base-100 shadow-xl hover:shadow-2xl transition-shadow duration-300">
                     <div className="card-body">
-                      <div className="badge badge-primary badge-outline mb-2">{t(`${expId}Date`)}</div>
-                      <h2 className="card-title text-primary">{t(`${expId}Titre`)}</h2>
-                      <h3 className="font-semibold text-lg text-justify">{t(`${expId}Company`)}</h3>
+                      {/* Logo de l'entreprise */}
+                      <div className="flex items-start gap-4">
+                        <div className="flex-shrink-0 w-16 h-16 bg-white rounded-lg shadow-md flex items-center justify-center p-2">
+                          <img 
+                            src={logoPath} 
+                            alt={`${t(`${expId}Company`)} logo`}
+                            className="w-full h-full object-contain"
+                          />
+                        </div>
+                        <div className="flex-1">
+                          <div className="badge badge-primary badge-outline mb-2">{t(`${expId}Date`)}</div>
+                          <h2 className="card-title text-primary">{t(`${expId}Titre`)}</h2>
+                          <h3 className="font-semibold text-lg text-justify">{t(`${expId}Company`)}</h3>
+                        </div>
+                      </div>
+                      
                       <p className="text-sm text-base-content opacity-70 flex items-center gap-2">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -67,7 +85,8 @@ export default function Experience() {
                   </div>
                 </div>
               </div>
-            ))}
+            );
+            })}
           </div>
         </div>
       </div>

@@ -104,11 +104,11 @@
   "viewAll": "Voir tout",
   "allDomains": "Tous",
 
-"action1Date": "2010-2025",
+"action1Date": "2007-2020",
 "action1Titre": "Pratique de Football",
 "action1Categorie": "Personel",
 "action1Lieu": "Fédération Française de Football",
-"action1Description": "Pratique régulière de l'arbitrage de football, encadrée par la Fédération Française de Football. Cette activité implique la gestion des matchs, l'application rigoureuse du règlement, la prise de décision rapide sur le terrain et le maintien d'un climat sportif entre les joueurs.",
+"action1Description": "Je pratique régulièrement le football, une activité qui me permet de développer des compétences essentielles telles que la gestion des matchs, l'application rigoureuse des règles, la prise de décision rapide sur le terrain et le maintien d'un esprit sportif.",
 
 "action2Date": "2019-2025",
 "action2Titre": "Arbitrage Football",
@@ -156,7 +156,7 @@
 "action9Titre": "Ajout de fonctionnalité Job Talend",
 "action9Categorie": "Professionnel",
 "action9Lieu": "BNP Paribas Real Estate",
-"action9Description": "Mise en place de règles de transformation métier dans les composants `tMap` pour automatiser le nettoyage et l'enrichissement des données.",
+"action9Description": "Mise en place d'un sous-job collectant les erreurs et envoyant un mail de monitoring",
 
 "action10Date": "Mars 2023",
 "action10Titre": "Mise à jour jobs Job Talend",
@@ -204,12 +204,12 @@
 "action17Titre": "Randonnée alpine au Mont Thabor",
 "action17Categorie": "Personel",
 "action17Lieu": "Massif des Cerces",
-"action17Description": "Participation à une randonnée dans le Massif des Cerces, avec ascension du Mont Thabor (3 178 m).",
+"action17Description": "Randonnée dans le Massif des Cerces, avec ascension du Mont Thabor (3 178 m).",
 
-"action18Date": "2025",
+"action18Date": "Septembre 2024-Aujourd'hui",
 "action18Titre": "Accompagnement Mathématiques",
-"action18Categorie": "Scolaire",
-"action18Lieu": "SupGalilée",
+"action18Categorie": "Personel",
+"action18Lieu": "Variable",
 "action18Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur." 
 }
  

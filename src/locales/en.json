@@ -20,7 +20,7 @@
   "exp2Titre": "General Computer Engineering Degree",
   "exp2Company": "Sup Galilée",
   "exp2Lieu": "Villetaneuse, France",
-  "exp2Description": "Work-study training in computer engineering, with progressive specialization in cloud architecture. Acquisition of solid skills in programming (Java, C++, Python), operating systems, networks, databases (SQL, NoSQL), and security. Advanced study in cloud computing (virtualization, system administration, distributed algorithms), software modeling, optimization, data mining, and design of robust architectures. Strong analytical capacity, academic rigor, and practical corporate experience.",
+  "exp2Description": "Solid foundation in computer engineering, with strong skills in programming (Java, C++, Python), operating systems, networks, databases (SQL, NoSQL), and cybersecurity. Advanced expertise in cloud computing (virtualization, system administration, distributed algorithms), software modeling, optimization, data mining, and the design of resilient architectures. Strong analytical mindset, academic rigor, and hands-on experience in a corporate environment.",
   "exp2Date": "2021 - 2024",
   
   "exp3Titre": "Developer and Project Manager",
@@ -101,111 +101,112 @@
   "viewAll": "View all",
   "allDomains": "All",
 
-  "action1Date": "2010-2025",
+   "action1Date": "2007-2020",
   "action1Titre": "Football Practice",
   "action1Categorie": "Personal",
   "action1Lieu": "French Football Federation",
-  "action1Description": "Regular practice of football refereeing, supervised by the French Football Federation. This activity involves managing matches, rigorous application of regulations, quick decision-making on the field, and maintaining a sporting atmosphere among players.",
-
+  "action1Description": "Regular football practice, helping develop key skills such as match management, strict rule enforcement, quick decision-making on the field, and maintaining sportsmanship.",
+  
   "action2Date": "2019-2025",
   "action2Titre": "Football Refereeing",
   "action2Categorie": "Personal",
   "action2Lieu": "French Football Federation",
-  "action2Description": "Regular practice of football refereeing, supervised by the French Football Federation. This activity involves managing matches, rigorous application of regulations, quick decision-making on the field, and maintaining a sporting atmosphere among players.",
-
+  "action2Description": "Regular football refereeing under the supervision of the French Football Federation. Involves match management, strict rule enforcement, quick decision-making, and maintaining a respectful atmosphere among players.",
+  
   "action3Date": "September 2021",
-  "action3Titre": "Introduction to C Language",
-  "action3Categorie": "Professional",
+  "action3Titre": "Introduction to C Programming",
+  "action3Categorie": "Academic",
   "action3Lieu": "Sup Galilée",
-  "action3Description": "Development of a contact manager in C: manipulation of structures, pointers, and dynamic memory.",
-
+  "action3Description": "Developed a contact manager in C, involving the use of structures, pointers, and dynamic memory management.",
+  
   "action4Date": "November 2021",
   "action4Titre": "Enterprise Network Simulation",
   "action4Categorie": "Academic",
   "action4Lieu": "Sup Galilée",
-  "action4Description": "This project involves simulating a corporate network in Cisco Packet Tracer. It includes configuring DHCP and DNS servers, routers, switches, and client workstations. The objective is to reproduce a functional network architecture with VLAN segmentation and traffic management. This work provides understanding of network administration basics in a professional environment.",
-
+  "action4Description": "Simulated an enterprise network using Cisco Packet Tracer, including DHCP and DNS server configuration, routers, switches, and client machines. The project focused on creating a functional network architecture with VLAN segmentation and traffic management.",
+  
   "action5Date": "December 2021",
-  "action5Titre": "Introduction to Algorithmic Performance Concepts",
+  "action5Titre": "Introduction to Algorithmic Performance",
   "action5Categorie": "Academic",
   "action5Lieu": "Sup Galilée",
-  "action5Description": "This project involves modeling an urban transport network as a graph, applying classical algorithms such as Dijkstra, Kruskal, or Prim to optimize routes and structure, while utilizing techniques like k-means to segment activity zones and k-nearest neighbors to recommend personalized routes to users.",
-
+  "action5Description": "Modeled an urban transport network as a graph and applied classical algorithms such as Dijkstra, Kruskal, and Prim to optimize routes and structure. Used techniques like k-means for activity zone segmentation and k-nearest neighbors for personalized route recommendations.",
+  
   "action6Date": "April 2022",
   "action6Titre": "Relational Database Project",
   "action6Categorie": "Academic",
   "action6Lieu": "Sup Galilée",
-  "action6Description": "Implementation of a database for a media library using MySQL. The project included modeling (ER, conceptual data model), table creation, complex SQL queries (joins, aggregates), and access rights management. The objective was to ensure data consistency and optimize searches.",
-
+  "action6Description": "Designed a relational database for a media library using MySQL. Included data modeling (ERD), table creation, complex SQL queries (joins, aggregates), and access rights management to ensure data consistency and search optimization.",
+  
   "action7Date": "June 2022",
   "action7Titre": "Password Manager with Symfony and PHP",
   "action7Categorie": "Academic",
   "action7Lieu": "Sup Galilée",
-  "action7Description": "Project developed in PHP with the Symfony framework aimed at developing a secure password manager, including creation of registration and login forms, password hashing, and authentication verification.",
-
+  "action7Description": "Developed a secure password manager using PHP and the Symfony framework, including user registration and login forms, password hashing, and authentication verification.",
+  
   "action8Date": "December 2022",
-  "action8Titre": "Adding Talend Job Functionality",
+  "action8Titre": "Talend Job Feature Addition",
   "action8Categorie": "Professional",
   "action8Lieu": "BNP Paribas Real Estate",
-  "action8Description": "Implementation of business transformation rules in `tMap` components to automate data cleansing and enrichment.",
-
+  "action8Description": "Implemented business transformation rules in `tMap` components to automate data cleansing and enrichment.",
+  
   "action9Date": "January 2023",
-  "action9Titre": "Adding Talend Job Functionality",
+  "action9Titre": "Talend Job Feature Addition",
   "action9Categorie": "Professional",
   "action9Lieu": "BNP Paribas Real Estate",
-  "action9Description": "Implementation of business transformation rules in `tMap` components to automate data cleansing and enrichment.",
-
+  "action9Description": "Created a sub-job to collect errors and send monitoring emails.",
+  
   "action10Date": "March 2023",
-  "action10Titre": "Talend Job Updates",
+  "action10Titre": "Talend Job Update",
   "action10Categorie": "Professional",
   "action10Lieu": "BNP Paribas Real Estate",
-  "action10Description": "Implementation of business transformation rules in `tMap` components to automate data cleansing and enrichment.",
-
+  "action10Description": "Updated business transformation rules in `tMap` components to automate data cleansing and enrichment.",
+  
   "action11Date": "May 2023",
   "action11Titre": "Automated Web Server Deployment with Ansible",
   "action11Categorie": "Academic",
   "action11Lieu": "SupGalilée",
-  "action11Description": "This work allowed us to understand the basics of automation with Ansible, the structure of a playbook, the use of modules such as apt, copy, service, and the importance of idempotence in deployments.",
-
+  "action11Description": "Learned the basics of automation with Ansible, including playbook structure, use of modules like apt, copy, and service, and the importance of idempotence in deployments.",
+  
   "action12Date": "January 2024",
-  "action12Titre": "Using SAP Ariba for Supplier Invoice Management",
+  "action12Titre": "Invoice Management with SAP Ariba",
   "action12Categorie": "Professional",
   "action12Lieu": "BNP Paribas Real Estate",
-  "action12Description": "Use of SAP Ariba for manual invoice entry, updating the status of unpaid invoices, and tracking their progress until payment.",
-
+  "action12Description": "Used SAP Ariba for manual invoice entry, updating unpaid invoice statuses, and tracking progress until payment.",
+  
   "action13Date": "May 2024",
-  "action13Titre": "Tic-Tac-Toe Game with AI in C Language",
+  "action13Titre": "Tic-Tac-Toe with AI in C",
   "action13Categorie": "Academic",
-  "action13Lieu": "BNP Paribas Real Estate",
-  "action13Description": "This project implements a command-line tic-tac-toe game with an artificial intelligence that learns through reinforcement.",
-
+  "action13Lieu": "Sup Galilée",
+  "action13Description": "Implemented a command-line tic-tac-toe game with reinforcement learning-based AI.",
+  
   "action14Date": "June 2024",
-  "action14Titre": "Creating a UiPath Robot",
+  "action14Titre": "UIPath Robot Creation",
   "action14Categorie": "Professional",
   "action14Lieu": "BNP Paribas Real Estate",
-  "action14Description": "As part of a Jira migration, since direct database copying was not feasible, I designed a UiPath robot capable of reproducing all tickets one by one. This robot executed the task in approximately 7 hours, ensuring a complete and reliable data migration.",
-
+  "action14Description": "Developed a UiPath robot to replicate Jira tickets one by one during a migration, ensuring complete and reliable data transfer in about 7 hours.",
+  
   "action15Date": "June 2025",
-  "action15Titre": "Textual Analysis of Ticket Similarity",
+  "action15Titre": "Textual Similarity Analysis of Tickets",
   "action15Categorie": "Professional",
   "action15Lieu": "Departmental Council",
-  "action15Description": "In-depth analysis of business requests sharing the same fields, in order to launch targeted textual analysis on the 'Title' and 'Description' columns, deemed most significant at this level.",
-
-  "action16Date": "January-March 2025",
-  "action16Titre": "Active Participation in Outreach Programs",
+  "action15Description": "Conducted in-depth analysis of business requests sharing similar fields, focusing on textual analysis of 'Title' and 'Description' columns for meaningful insights.",
+  
+  "action16Date": "2025",
+  "action16Titre": "Active Participation in Humanitarian Outreach",
   "action16Categorie": "Personal",
   "action16Lieu": "Fraternite.internationale",
-  "action16Description": "Regular participation in humanitarian outreach programs aimed at helping homeless people. This mission includes distribution of meals, clothing, and hygiene products, as well as active listening and moral support.",
-
-  "action17Date": "May 2025",
-  "action17Titre": "Alpine Hiking at Mont Thabor",
+  "action16Description": "Regular participation in humanitarian outreach to support homeless individuals, including distributing meals, clothing, hygiene products, and providing emotional support.",
+  
+  "action17Date": "2025",
+  "action17Titre": "Alpine Hike to Mont Thabor",
   "action17Categorie": "Personal",
-  "action17Lieu": "Massif des Cerces",
-  "action17Description": "Participation in a hike in the Massif des Cerces, with ascent of Mont Thabor (3,178 m).",
-
-  "action18Date": "2025",
+  "action17Lieu": "Cerces Massif",
+  "action17Description": "Hiked in the Cerces Massif, including the ascent of Mont Thabor (3,178 m).",
+  
+  "action18Date": "September 2024-Present",
   "action18Titre": "Mathematics Tutoring",
   "action18Categorie": "Personal",
-  "action18Lieu": "SupGalilée",
-  "action18Description": "Weekly tutoring of three high school/preparatory class students, through personalized lessons aimed at strengthening their mathematics skills and preparing them for the requirements of the baccalaureate and higher education."
+  "action18Lieu": "Variable",
+  "action18Description": "Weekly tutoring for three high school/CPGE students, offering personalized lessons to strengthen their math skills and prepare them for final exams and higher education."
+
 }

@@ -37,7 +37,7 @@ const Navbar = () => {
                     <li><button onClick={() => scrollToSection('about')} className="btn btn-sm btn-primary mx-1 my-1">{t("about")}</button></li>
                     <li><button onClick={() => scrollToSection('experience')} className="btn btn-sm btn-primary mx-1 my-1">{t("experience")}</button></li>
                     <li><button onClick={() => scrollToSection('skills')} className="btn btn-sm btn-primary mx-1 my-1">{t("skill")}</button></li>
-                    <li><button className="btn btn-sm btn-primary mx-1 my-1">{t("journal_technique")}</button></li>
+                    <li><button onClick={() => scrollToSection('journal')}  className="btn btn-sm btn-primary mx-1 my-1">{t("journal_technique")}</button></li>
                 </ul>
             </div>
 

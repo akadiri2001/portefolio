@@ -211,6 +211,13 @@
 "action18Titre": "Accompagnement Mathématiques",
 "action18Categorie": "Personel",
 "action18Lieu": "Variable",
-"action18Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur." 
+"action18Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur.", 
+
+"action19Date": "Mai 2025",
+"action19Titre": "Cartographie applicative du système d'information",
+"action19Categorie": "Professionnel",
+"action19Lieu": "Conseil départemental",
+"action19Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision macroscopique du système d'information." 
+
 }
  

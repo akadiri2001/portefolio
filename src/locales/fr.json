@@ -13,7 +13,7 @@
   
   "exp1Titre": "Classe préparatoire aux grandes écoles (PCSI-PSI)",
   "exp1Company": "Lycée Condorcet",
-  "exp1Lieu": "Paris, France",
+  "exp1Lieu": "Montreuil, France",
   "exp1Description": "Formation en mathématiques, physique, sciences de l'ingénieur et informatique, avec un engagement soutenu et une forte capacité de travail.",
   "exp1Date": "2019 - 2021",
   
@@ -188,23 +188,24 @@
 "action14Lieu": "BNP Paribas Real Estate",
 "action14Description": "Dans le cadre d'une migration Jira, la recopie directe de la base de données n'étant pas envisageable, j'ai conçu un robot UiPath capable de reproduire l'intégralité des tickets un à un. Ce robot a exécuté la tâche en environ 7 heures, assurant une migration complète et fiable des données.",
 
-"action15Date": "Juin 2025",
-"action15Titre": "Analyse textuelle de la similarité des tickets",
-"action15Categorie": "Professionnel",
-"action15Lieu": "Conseil départemental",
-"action15Description": "Analyse approfondie des demandes métiers partageant les mêmes champs, afin de lancer une analyse textuelle ciblée sur les colonnes 'Titre' et 'Description', jugées les plus significatives à ce niveau.",
 
-"action16Date": "2025",
-"action16Titre": "Participation active à des maraudes",
+"action15Date": "Mai 2025",
+"action15Titre": "Participation active à des maraudes",
+"action15Categorie": "Personel",
+"action15Lieu": "Fraternite.internationale",
+"action15Description": "Participation régulière à des maraudes humanitaires visant à venir en aide aux personnes sans-abri. Cette mission inclut la distribution de repas, de vêtements et de produits d'hygiène, ainsi que l'écoute active et le soutien moral.",
+
+"action16Date": "Avril 2025",
+"action16Titre": "Randonnée alpine au Mont Thabor",
 "action16Categorie": "Personel",
-"action16Lieu": "Fraternite.internationale",
-"action16Description": "Participation régulière à des maraudes humanitaires visant à venir en aide aux personnes sans-abri. Cette mission inclut la distribution de repas, de vêtements et de produits d'hygiène, ainsi que l'écoute active et le soutien moral.",
+"action16Lieu": "Massif des Cerces",
+"action16Description": "Randonnée dans le Massif des Cerces, avec ascension du Mont Thabor (3 178 m).",
 
-"action17Date": "2025",
-"action17Titre": "Randonnée alpine au Mont Thabor",
-"action17Categorie": "Personel",
-"action17Lieu": "Massif des Cerces",
-"action17Description": "Randonnée dans le Massif des Cerces, avec ascension du Mont Thabor (3 178 m).",
+"action17Date": "Juin 2025",
+"action17Titre": "Analyse textuelle de la similarité des tickets",
+"action17Categorie": "Professionnel",
+"action17Lieu": "Conseil départemental",
+"action17Description": "Analyse approfondie des demandes métiers partageant les mêmes champs, afin de lancer une analyse textuelle ciblée sur les colonnes 'Titre' et 'Description', jugées les plus significatives à ce niveau.",
 
 "action18Date": "Septembre 2024-Aujourd'hui",
 "action18Titre": "Accompagnement Mathématiques",

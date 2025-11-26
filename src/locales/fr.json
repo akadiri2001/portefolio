@@ -11,29 +11,41 @@
   "contacter_moi": "Contactez-moi",
   "aboutText": "« La créativité, c'est l'intelligence qui s'amuse. » — Albert Einstein\n\nDepuis toujours, j'ai cultivé un esprit analytique, guidé par le besoin de comprendre les choses en profondeur plutôt que de me contenter de leur apparence. Cette posture m'a naturellement orienté vers les raisonnements logiques et mathématiques, où rigueur et clarté sont essentielles.\n\nTrès tôt, j'ai été attiré par l'informatique, un domaine où la récursivité de mes réflexions trouvait un écho naturel. Chaque problème devient un sujet à explorer, chaque solution une construction méthodique. Après un bac scientifique, j'ai choisi de poursuivre deux années de classe préparatoire, convaincu que la solidité des fondations intellectuelles est indispensable pour bâtir des solutions robustes.\n\nMa formation en informatique m'a permis d'acquérir une vision complète du métier : des bases théoriques aux applications concrètes, en passant par les algorithmes, les systèmes, le développement logiciel et la gestion de projet. Elle m'a aussi appris à allier précision technique et créativité, à collaborer efficacement, et à rester curieux face aux évolutions constantes du numérique.\n\nAujourd'hui, je me définis comme un ingénieur informatique passionné, capable de transformer les idées en solutions concrètes. J'aime relever les défis, structurer les pensées, et faire dialoguer logique et intuition pour créer des outils utiles, élégants et durables.",
   
-  "exp1Titre": "Classe préparatoire aux grandes écoles (PCSI-PSI)",
-  "exp1Company": "Lycée Condorcet",
-  "exp1Lieu": "Montreuil, France",
-  "exp1Description": "Formation en mathématiques, physique, sciences de l'ingénieur et informatique, avec un engagement soutenu et une forte capacité de travail.",
-  "exp1Date": "2019 - 2021",
+  "exp1Titre": "Arbitre de football académique",
+  "exp1Company": "UNSS",
+  "exp1Lieu": "Montfermeil, France",
+  "exp1Description": "Arbitre de football au niveau académique",
+  "exp1Date": "2013 - 2015",
+
+  "exp2Titre": "Arbitre de football départemental",
+  "exp2Company": "FFF",
+  "exp2Lieu": "Montfermeil, France",
+  "exp2Description": "Arbitre de football au niveau départemental",
+  "exp2Date": "201 - 2015",
+
+  "exp3Titre": "Classe préparatoire aux grandes écoles (PCSI-PSI)",
+  "exp3Company": "Lycée Condorcet",
+  "exp3Lieu": "Montreuil, France",
+  "exp3Description": "Formation en mathématiques, physique, sciences de l'ingénieur et informatique, avec un engagement soutenu et une forte capacité de travail.",
+  "exp3Date": "2019 - 2021",
   
-  "exp2Titre": "Diplôme d'ingénieur informaticien généraliste",
-  "exp2Company": "Sup Galilée",
-  "exp2Lieu": "Villetaneuse, France",
-  "exp2Description": "Formation complète en ingénierie informatique. Acquisition de compétences solides en programmation (Java, C++, Python), systèmes d'exploitation, réseaux, bases de données (SQL, NoSQL), et sécurité. Approfondissement en sciences des données (traitement, analyse et transfert de données massives, apprentissage automatique (machine learning), statistiques avancées…), cloud computing (virtualisation, administration système, algorithmes distribués), modélisation logicielle, optimisation et conception d'architectures robustes. Forte capacité d'analyse, rigueur académique et expérience concrète en entreprise.",
-  "exp2Date": "2021 - 2024",
+  "exp4Titre": "Diplôme d'ingénieur informaticien généraliste",
+  "exp4Company": "Sup Galilée",
+  "exp4Lieu": "Villetaneuse, France",
+  "exp4Description": "Formation complète en ingénierie informatique. Acquisition de compétences solides en programmation (Java, C++, Python), systèmes d'exploitation, réseaux, bases de données (SQL, NoSQL), et sécurité. Approfondissement en sciences des données (traitement, analyse et transfert de données massives, apprentissage automatique (machine learning), statistiques avancées…), cloud computing (virtualisation, administration système, algorithmes distribués), modélisation logicielle, optimisation et conception d'architectures robustes. Forte capacité d'analyse, rigueur académique et expérience concrète en entreprise.",
+  "exp4Date": "2021 - 2024",
   
-  "exp3Titre": "Développeur et chargé de Projet",
-  "exp3Company": "BNP Paribas Real Estate",
-  "exp3Lieu": "Boulogne-Billancourt, France",
-  "exp3Description": "Au sein de la Direction des Systèmes d'Information de BNP Paribas Real Estate, j'ai évolué dans l'équipe en charge du métier Property Management, dédiée à la gestion de biens immobiliers. J'ai participé à la gestion du parc applicatif, au pilotage de projets, à l'accompagnement des utilisateurs dans l'expression de leurs besoins, ainsi qu'aux phases de tests et de recettes. Cette mission m'a permis de développer une expertise en systèmes d'information et en gestion de projets, tout en apprenant à évoluer dans un grand groupe structuré. Les technologies mobilisées incluent Talend, UiPath, Java, SQL et Jira.",
-  "exp3Date": "2022 - 2024",
+  "exp5Titre": "Développeur et chargé de Projet",
+  "exp5Company": "BNP Paribas Real Estate",
+  "exp5Lieu": "Boulogne-Billancourt, France",
+  "exp5Description": "Au sein de la Direction des Systèmes d'Information de BNP Paribas Real Estate, j'ai évolué dans l'équipe en charge du métier Property Management, dédiée à la gestion de biens immobiliers. J'ai participé à la gestion du parc applicatif, au pilotage de projets, à l'accompagnement des utilisateurs dans l'expression de leurs besoins, ainsi qu'aux phases de tests et de recettes. Cette mission m'a permis de développer une expertise en systèmes d'information et en gestion de projets, tout en apprenant à évoluer dans un grand groupe structuré. Les technologies mobilisées incluent Talend, UiPath, Java, SQL et Jira.",
+  "exp5Date": "2022 - 2024",
   
-  "exp4Titre": "Ingénieur applicatif",
-  "exp4Company": "Conseil départemental",
-  "exp4Lieu": "Bobigny, France",
-  "exp4Description": "Intervention sur trois axes majeurs : projets, maintien en condition opérationnelle et apport de visibilité stratégique. Le poste implique une forte expertise technique dans le cadrage et le suivi des projets applicatifs, avec une capacité à analyser les besoins, proposer des solutions adaptées et anticiper les risques. Cela exige une solide expertise technique, notamment une maîtrise approfondie des architectures du système d'information, une grande réactivité dans la gestion des incidents, ainsi qu'une capacité à coordonner efficacement les intégrateurs sur des sujets complexes et interconnectés. En tant qu'ingénieur applicatif, j'ai contribué à la consolidation d'une vision macro du système d'information, permettant à la direction de mieux piloter les enjeux techniques et fonctionnels.",
-  "exp4Date": "2025 - 2028",
+  "exp6Titre": "Ingénieur applicatif",
+  "exp6Company": "Conseil départemental",
+  "exp6Lieu": "Bobigny, France",
+  "exp6Description": "Au sein de la DSI dans le service en charge de l'intégration et des applications. Intervention sur trois axes majeurs : projets, maintien en condition opérationnelle et apport de visibilité stratégique. Le poste implique une forte expertise technique dans le cadrage et le suivi des projets applicatifs, avec une capacité à analyser les besoins, proposer des solutions adaptées et anticiper les risques. Cela exige une solide expertise technique, notamment une maîtrise approfondie des architectures du système d'information, une grande réactivité dans la gestion des incidents, ainsi qu'une capacité à coordonner efficacement les intégrateurs sur des sujets complexes et interconnectés.",
+  "exp6Date": "2025 - 2028",
 
 
   "skills" : [
@@ -150,13 +162,13 @@
 "action8Titre": "Ajout de fonctionnalité Job Talend",
 "action8Categorie": "Professionnel",
 "action8Lieu": "BNP Paribas Real Estate",
-"action8Description": "Mise en place de règles de transformation métier dans les composants `tMap` pour automatiser le nettoyage et l'enrichissement des données.",
+"action8Description": "Mise en place d'un Joblet collectant les erreurs et envoyant un mail de monitoring",
 
 "action9Date": "Janvier 2023",
-"action9Titre": "Ajout de fonctionnalité Job Talend",
+"action9Titre": "Mise en place d’un Dashboard de monitoring des jobs Talend ",
 "action9Categorie": "Professionnel",
 "action9Lieu": "BNP Paribas Real Estate",
-"action9Description": "Mise en place d'un sous-job collectant les erreurs et envoyant un mail de monitoring",
+"action9Description": "Déploiement d’une solution de supervision basée sur Elasticsearch et Kibana permettant de centraliser les logs des jobs Talend, d’analyser leur exécution en temps réel et de visualiser les indicateurs clés via des tableaux de bord interactifs.",
 
 "action10Date": "Mars 2023",
 "action10Titre": "Mise à jour jobs Job Talend",
@@ -217,7 +229,26 @@
 "action19Titre": "Cartographie applicative du système d'information",
 "action19Categorie": "Professionnel",
 "action19Lieu": "Conseil départemental",
-"action19Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision macroscopique du système d'information." 
+"action19Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision microscopique/macroscopique du système d'information.",
+
+"action20Date": "Mai 2025",
+"action20Titre": "Cartographie applicative du système d'information",
+"action20Categorie": "Professionnel",
+"action20Lieu": "Conseil départemental",
+"action20Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision microscopique/macroscopique du système d'information. Suivi d'une mise en place d'un processus de gouvernance des données visant à garantir la qualité, la traçabilité et la cohérence des flux. La visualisation de la cartographie des données a été automatisée, permettant un suivi simplifié et une transparence accrue sur l'architecture décisionnelle." ,
+
+"action21Date": "Juin-Octobre 2025",
+"action21Titre": "Mise en place d'un ESB Talend",
+"action21Categorie": "Professionnel",
+"action21Lieu": "Conseil départemental",
+"action21Description": "Dans un contexte où plusieurs applications devaient consommer le même service exposé par une application tierce, la multiplication des connexions directes entraînait une complexité accrue et un manque de cohérence dans l'architecture. Afin de rationaliser les échanges et de centraliser l’intégration, j’ai mis en place un ESB en Talend.",
+
+"action22Date": "Juin 2025",
+"action22Titre": "Projet d'entrepôt de données",
+"action22Categorie": "Professionnel",
+"action22Lieu": "Conseil départemental",
+"action22Description": "Mise en place d’une base de données PostgreSQL dédiée à l’ODS (Operational Data Store) pour l’alimentation du Data Warehouse, avec des flux gérés et orchestrés par des jobs Talend" 
+
 
 }
  

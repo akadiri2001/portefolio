@@ -13,39 +13,63 @@
   
   "exp1Titre": "Arbitre de football académique",
   "exp1Company": "UNSS",
-  "exp1Lieu": "Montfermeil, France",
+  "exp1Lieu": "Seine-Saint-Denis, France",
   "exp1Description": "Arbitre de football au niveau académique",
   "exp1Date": "2013 - 2015",
-
-  "exp2Titre": "Arbitre de football départemental",
+  
+  "exp2Titre": "Arbitre de football amateur",
   "exp2Company": "FFF",
-  "exp2Lieu": "Montfermeil, France",
+  "exp2Lieu": "Seine-Saint-Denis, France",
   "exp2Description": "Arbitre de football au niveau départemental",
-  "exp2Date": "201 - 2015",
+  "exp2Date": "2016 - 2019 / 2024 - Maintenant",
 
-  "exp3Titre": "Classe préparatoire aux grandes écoles (PCSI-PSI)",
-  "exp3Company": "Lycée Condorcet",
-  "exp3Lieu": "Montreuil, France",
-  "exp3Description": "Formation en mathématiques, physique, sciences de l'ingénieur et informatique, avec un engagement soutenu et une forte capacité de travail.",
-  "exp3Date": "2019 - 2021",
+  "exp3Titre": "Manutentionnaire interimaire",
+  "exp3Company": "Randstad",
+  "exp3Lieu": "Lognes, France",
+  "exp3Description": "Préparateur de commande, ",
+  "exp3Date": "Juin 2019 - Juillet 2019",
+
+  "exp4Titre": "Employé polyvalent",
+  "exp4Company": "Uncle Bumpy",
+  "exp4Lieu": "Noisy-Le-Sec, France",
+  "exp4Description": "Gestion de l'accueil client et de la prise de commande, encaissement, suivi des stocks et réapprovisionnement. Préparation des commandes et assistance en cuisine afin de garantir le bon déroulement du service",
+  "exp4Date": "Juillet 2020 - Août 2020",
+
+  "exp5Titre": "Classe préparatoire aux grandes écoles (PCSI-PSI)",
+  "exp5Company": "Lycée Condorcet",
+  "exp5Lieu": "Montreuil, France",
+  "exp5Description": "Formation en mathématiques, physique, sciences de l'ingénieur et informatique, avec un engagement soutenu et une forte capacité de travail.",
+  "exp5Date": "2019 - 2021",
   
-  "exp4Titre": "Diplôme d'ingénieur informaticien généraliste",
-  "exp4Company": "Sup Galilée",
-  "exp4Lieu": "Villetaneuse, France",
-  "exp4Description": "Formation complète en ingénierie informatique. Acquisition de compétences solides en programmation (Java, C++, Python), systèmes d'exploitation, réseaux, bases de données (SQL, NoSQL), et sécurité. Approfondissement en sciences des données (traitement, analyse et transfert de données massives, apprentissage automatique (machine learning), statistiques avancées…), cloud computing (virtualisation, administration système, algorithmes distribués), modélisation logicielle, optimisation et conception d'architectures robustes. Forte capacité d'analyse, rigueur académique et expérience concrète en entreprise.",
-  "exp4Date": "2021 - 2024",
+  "exp6Titre": "Diplôme d'ingénieur informaticien généraliste",
+  "exp6Company": "Sup Galilée",
+  "exp6Lieu": "Villetaneuse, France",
+  "exp6Description": "Formation complète en ingénierie informatique. Acquisition de compétences solides en programmation (Java, C++, Python), systèmes d'exploitation, réseaux, bases de données (SQL, NoSQL), et sécurité. Approfondissement en sciences des données (traitement, analyse et transfert de données massives, apprentissage automatique (machine learning), statistiques avancées…), cloud computing (virtualisation, administration système, algorithmes distribués), modélisation logicielle, optimisation et conception d'architectures robustes. Forte capacité d'analyse, rigueur académique et expérience concrète en entreprise.",
+  "exp6Date": "2021 - 2024",
   
-  "exp5Titre": "Développeur et chargé de Projet",
-  "exp5Company": "BNP Paribas Real Estate",
-  "exp5Lieu": "Boulogne-Billancourt, France",
-  "exp5Description": "Au sein de la Direction des Systèmes d'Information de BNP Paribas Real Estate, j'ai évolué dans l'équipe en charge du métier Property Management, dédiée à la gestion de biens immobiliers. J'ai participé à la gestion du parc applicatif, au pilotage de projets, à l'accompagnement des utilisateurs dans l'expression de leurs besoins, ainsi qu'aux phases de tests et de recettes. Cette mission m'a permis de développer une expertise en systèmes d'information et en gestion de projets, tout en apprenant à évoluer dans un grand groupe structuré. Les technologies mobilisées incluent Talend, UiPath, Java, SQL et Jira.",
-  "exp5Date": "2022 - 2024",
+  "exp7Titre": "Développeur et chargé de Projet",
+  "exp7Company": "BNP Paribas Real Estate",
+  "exp7Lieu": "Boulogne-Billancourt, France",
+  "exp7Description": "Au sein de la Direction des Systèmes d'Information de BNP Paribas Real Estate, j'ai évolué dans l'équipe en charge du métier Property Management, dédiée à la gestion de biens immobiliers. J'ai participé à la gestion du parc applicatif, au pilotage de projets, à l'accompagnement des utilisateurs dans l'expression de leurs besoins, ainsi qu'aux phases de tests et de recettes. Cette mission m'a permis de développer une expertise en systèmes d'information et en gestion de projets, tout en apprenant à évoluer dans un grand groupe structuré. Les technologies mobilisées incluent principalement Talend, UiPath, Java, SQL, Jira, Clarity et ServiceNow.",
+  "exp7Date": "2022 - 2024",
   
-  "exp6Titre": "Ingénieur applicatif",
-  "exp6Company": "Conseil départemental",
-  "exp6Lieu": "Bobigny, France",
-  "exp6Description": "Au sein de la DSI dans le service en charge de l'intégration et des applications. Intervention sur trois axes majeurs : projets, maintien en condition opérationnelle et apport de visibilité stratégique. Le poste implique une forte expertise technique dans le cadrage et le suivi des projets applicatifs, avec une capacité à analyser les besoins, proposer des solutions adaptées et anticiper les risques. Cela exige une solide expertise technique, notamment une maîtrise approfondie des architectures du système d'information, une grande réactivité dans la gestion des incidents, ainsi qu'une capacité à coordonner efficacement les intégrateurs sur des sujets complexes et interconnectés.",
-  "exp6Date": "2025 - 2028",
+  "exp8Titre": "Engagement dans des maraudes humanitaires",
+  "exp8Company": "Fraternite internationale",
+  "exp8Lieu": "Paris, France",
+  "exp8Description": "Participation aux activités de préparation culinaire et de distribution auprès des personnes démunies.",
+  "exp8Date": "2025",
+
+  "exp9Titre": "Développement de projets personnels",
+  "exp9Company": "",
+  "exp9Lieu": "Montfermeil, France",
+  "exp9Description": "Mise en place de projets personnels innovants : \n -Développement d'une application dédiée aux employeurs indépendants (actuellement en phase de test) \n -Développement d'une application destinée aux clubs de football amateur (en cours de développement)",
+  "exp9Date": "2025",
+
+  "exp10Titre": "Ingénieur applicatif",
+  "exp10Company": "Conseil départemental",
+  "exp10Lieu": "Bobigny, France",
+  "exp10Description": "Au sein de la DSI dans le service en charge de l'intégration et des applications. Intervention sur trois axes majeurs : projets, maintien en condition opérationnelle et apport de visibilité stratégique. Le poste nécessite une forte implacation dans le cadrage et le suivi des projets applicatifs, avec une capacité à analyser les besoins, proposer des solutions adaptées et anticiper les risques. Cela exige une solide expertise technique, notamment une maîtrise approfondie des architectures du système d'information, une grande réactivité dans la gestion des incidents, ainsi qu'une capacité à coordonner efficacement les intégrateurs sur des sujets complexes et interconnectés.",
+  "exp10Date": "2025 - 2028",
 
 
   "skills" : [
@@ -77,7 +101,7 @@
   { "titre": "Oracle (PL/SQL, NoSQL)", "domaine": "Data & Artificial Intelligence", "niveau": 85 },
   { "titre": "MongoDB", "domaine": "Data & Artificial Intelligence", "niveau": 80 },
   { "titre": "CouchDB", "domaine": "Data & Artificial Intelligence", "niveau": 70 },
-  { "titre": "Talend", "domaine": "Data & Artificial Intelligence", "niveau": 95 },
+  { "titre": "Talend", "domaine": "Data & Artificial Intelligence", "niveau": 90 },
   { "titre": "BigQuery", "domaine": "Data & Artificial Intelligence", "niveau": 75 },
   { "titre": "Looker Studio", "domaine": "Data & Artificial Intelligence", "niveau": 80 },
   { "titre": "Power BI", "domaine": "Data & Artificial Intelligence", "niveau": 85 },
@@ -87,6 +111,7 @@
   { "titre": "Pandas - Numpy - Scikit-learn - PyTorch", "domaine": "Data & Artificial Intelligence", "niveau": 85 },
 
   { "titre": "ITIL", "domaine": "Project Management & Methodologies", "niveau": 90 },
+  { "titre": "TOGAF", "domaine": "Project Management & Methodologies", "niveau": 90 },  
   { "titre": "Cycle en V", "domaine": "Project Management & Methodologies", "niveau": 80 },
   { "titre": "Agile", "domaine": "Project Management & Methodologies", "niveau": 90 },
   { "titre": "Scrum", "domaine": "Project Management & Methodologies", "niveau": 80 },
@@ -165,10 +190,10 @@
 "action8Description": "Mise en place d'un Joblet collectant les erreurs et envoyant un mail de monitoring",
 
 "action9Date": "Janvier 2023",
-"action9Titre": "Mise en place d’un Dashboard de monitoring des jobs Talend ",
+"action9Titre": "Mise en place d'un Dashboard de monitoring des jobs Talend ",
 "action9Categorie": "Professionnel",
 "action9Lieu": "BNP Paribas Real Estate",
-"action9Description": "Déploiement d’une solution de supervision basée sur Elasticsearch et Kibana permettant de centraliser les logs des jobs Talend, d’analyser leur exécution en temps réel et de visualiser les indicateurs clés via des tableaux de bord interactifs.",
+"action9Description": "Déploiement d'une solution de supervision basée sur Elasticsearch et Kibana permettant de centraliser les logs des jobs Talend, d’analyser leur exécution en temps réel et de visualiser les indicateurs clés via des tableaux de bord interactifs.",
 
 "action10Date": "Mars 2023",
 "action10Titre": "Mise à jour jobs Job Talend",
@@ -247,7 +272,7 @@
 "action22Titre": "Projet d'entrepôt de données",
 "action22Categorie": "Professionnel",
 "action22Lieu": "Conseil départemental",
-"action22Description": "Mise en place d’une base de données PostgreSQL dédiée à l’ODS (Operational Data Store) pour l’alimentation du Data Warehouse, avec des flux gérés et orchestrés par des jobs Talend" 
+"action22Description": "Mise en place d'une base de données PostgreSQL dédiée à l'ODS (Operational Data Store) pour l’alimentation du Data Warehouse, avec des flux gérés et orchestrés par des jobs Talend" 
 
 
 }

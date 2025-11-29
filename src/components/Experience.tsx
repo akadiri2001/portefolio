@@ -2,7 +2,7 @@ import { useTranslation } from "react-i18next";
 import Title from "./Title";
 
 // Liste des identifiants d'expériences
-const experiences = ["exp1", "exp2", "exp3", "exp4"];
+const experiences = ["exp1", "exp2", "exp3", "exp4", "exp5", "exp6", "exp7", "exp8", "exp9", "exp10"];
 
 export default function Experience() {
   const { t } = useTranslation();
@@ -67,7 +67,7 @@ export default function Experience() {
                           </div>
                           <div className="flex-1">
                             <div className="badge badge-primary badge-outline mb-2">{t(`${expId}Date`)}</div>
-                            {companyNumber === "2" ? (
+                            {companyNumber === "6" ? (
                               <h2 className="card-title text-primary flex items-center gap-2">
                                 <a href="https://github.com/akadiri2001/Analyse-performances-academiques" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:underline">
                                   {t(`${expId}Titre`)}

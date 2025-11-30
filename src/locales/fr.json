@@ -26,7 +26,7 @@
   "exp3Titre": "Manutentionnaire interimaire",
   "exp3Company": "Randstad",
   "exp3Lieu": "Lognes, France",
-  "exp3Description": "Préparateur de commande, ",
+  "exp3Description": "Préparateur de commande",
   "exp3Date": "Juin 2019 - Juillet 2019",
 
   "exp4Titre": "Employé polyvalent",
@@ -178,7 +178,7 @@
 "action6Description": "Mise en place d'une base de données pour une médiathèque avec MySQL. Le projet incluait la modélisation (MER, MCD), la création des tables, les requêtes SQL complexes (jointures, agrégats) et la gestion des droits d'accès. L'objectif était de garantir la cohérence des données et d'optimiser les recherches.",
 
 "action7Date": "Juin 2022",
-"action7Titre": "Gestionnaire de mots de passe avec Symfony et PHP",
+"action7Titre": "Gestionnaire de mots de passe avec Symfony",
 "action7Categorie": "Scolaire",
 "action7Lieu": "Sup Galilée",
 "action7Description": "Projet réalisé en PHP avec le framework Symfony visant à développer un gestionnaire de mot de passe sécurisé, incluant la création de formulaires d'inscription et de connexion, le hachage des mots de passe, la vérification à l'authentification.",
@@ -189,23 +189,23 @@
 "action8Lieu": "BNP Paribas Real Estate",
 "action8Description": "Mise en place d'un Joblet collectant les erreurs et envoyant un mail de monitoring",
 
-"action9Date": "Janvier 2023",
-"action9Titre": "Mise en place d'un Dashboard de monitoring des jobs Talend ",
+"action9Date": "Mars 2023",
+"action9Titre": "Mise à jour jobs Job Talend",
 "action9Categorie": "Professionnel",
 "action9Lieu": "BNP Paribas Real Estate",
-"action9Description": "Déploiement d'une solution de supervision basée sur Elasticsearch et Kibana permettant de centraliser les logs des jobs Talend, d’analyser leur exécution en temps réel et de visualiser les indicateurs clés via des tableaux de bord interactifs.",
+"action9Description": "Mise en place de règles de transformation métier dans les composants `tMap` pour automatiser le nettoyage et l'enrichissement des données.",
 
-"action10Date": "Mars 2023",
-"action10Titre": "Mise à jour jobs Job Talend",
-"action10Categorie": "Professionnel",
-"action10Lieu": "BNP Paribas Real Estate",
-"action10Description": "Mise en place de règles de transformation métier dans les composants `tMap` pour automatiser le nettoyage et l'enrichissement des données.",
+"action10Date": "Mai 2023",
+"action10Titre": "Déploiement automatisé d'un serveur web avec Ansible",
+"action10Categorie": "Scolaire",
+"action10Lieu": "SupGalilée",
+"action10Description": "Ce travail nous a permis de comprendre les bases de l'automatisation avec Ansible, la structure d'un playbook, l'utilisation des modules comme apt, copy, service, et l'importance de l'idempotence dans les déploiements.",
 
-"action11Date": "Mai 2023",
-"action11Titre": "Déploiement automatisé d'un serveur web avec Ansible",
-"action11Categorie": "Scolaire",
-"action11Lieu": "SupGalilée",
-"action11Description": "Ce travail nous a permis de comprendre les bases de l'automatisation avec Ansible, la structure d'un playbook, l'utilisation des modules comme apt, copy, service, et l'importance de l'idempotence dans les déploiements.",
+"action11Date": "Septembre 2023",
+"action11Titre": "Mise en place d'un Dashboard de monitoring des jobs Talend",
+"action11Categorie": "Professionnel",
+"action11Lieu": "Conseil départemental de la Seine-Saint-Denis",
+"action11Description": "Déploiement d'une solution de supervision basée sur Elasticsearch et Kibana permettant de centraliser les logs des jobs Talend, d’analyser leur exécution en temps réel et de visualiser les indicateurs clés via des tableaux de bord interactifs.",
 
 "action12Date": "Janvier 2024",
 "action12Titre": "Utilisation de SAP Ariba pour la gestion des factures fournisseurs",
@@ -225,12 +225,11 @@
 "action14Lieu": "BNP Paribas Real Estate",
 "action14Description": "Dans le cadre d'une migration Jira, la recopie directe de la base de données n'étant pas envisageable, j'ai conçu un robot UiPath capable de reproduire l'intégralité des tickets un à un. Ce robot a exécuté la tâche en environ 7 heures, assurant une migration complète et fiable des données.",
 
-
-"action15Date": "Mai 2025",
-"action15Titre": "Participation active à des maraudes",
+"action15Date": "Septembre 2024-Aujourd'hui",
+"action15Titre": "Accompagnement Mathématiques",
 "action15Categorie": "Personel",
-"action15Lieu": "Fraternite.internationale",
-"action15Description": "Participation régulière à des maraudes humanitaires visant à venir en aide aux personnes sans-abri. Cette mission inclut la distribution de repas, de vêtements et de produits d'hygiène, ainsi que l'écoute active et le soutien moral.",
+"action15Lieu": "Variable",
+"action15Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur.",
 
 "action16Date": "Avril 2025",
 "action16Titre": "Randonnée alpine au Mont Thabor",
@@ -238,42 +237,29 @@
 "action16Lieu": "Massif des Cerces",
 "action16Description": "Randonnée dans le Massif des Cerces, avec ascension du Mont Thabor (3 178 m).",
 
-"action17Date": "Juin 2025",
-"action17Titre": "Analyse textuelle de la similarité des tickets",
+"action17Date": "Mai 2025",
+"action17Titre": "Cartographie applicative du système d'information",
 "action17Categorie": "Professionnel",
 "action17Lieu": "Conseil départemental",
-"action17Description": "Analyse approfondie des demandes métiers partageant les mêmes champs, afin de lancer une analyse textuelle ciblée sur les colonnes 'Titre' et 'Description', jugées les plus significatives à ce niveau.",
+"action17Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision microscopique/macroscopique du système d'information.",
 
-"action18Date": "Septembre 2024-Aujourd'hui",
-"action18Titre": "Accompagnement Mathématiques",
-"action18Categorie": "Personel",
-"action18Lieu": "Variable",
-"action18Description": "Accompagnement hebdomadaire de trois élèves de niveau terminale/CPGE, à travers des cours personnalisés visant à renforcer leurs compétences en mathématiques et à les préparer aux exigences du baccalauréat et à l'enseignement supérieur.", 
+"action18Date": "Juin 2025",
+"action18Titre": "Analyse textuelle de la similarité des tickets",
+"action18Categorie": "Professionnel",
+"action18Lieu": "Conseil départemental",
+"action18Description": "Analyse approfondie des demandes métiers partageant les mêmes champs, afin de lancer une analyse textuelle ciblée sur les colonnes 'Titre' et 'Description', jugées les plus significatives à ce niveau.",
 
-"action19Date": "Mai 2025",
-"action19Titre": "Cartographie applicative du système d'information",
+"action19Date": "Juin 2025",
+"action19Titre": "Projet d'entrepôt de données",
 "action19Categorie": "Professionnel",
 "action19Lieu": "Conseil départemental",
-"action19Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision microscopique/macroscopique du système d'information.",
+"action19Description": "Mise en place d'une base de données PostgreSQL dédiée à l'ODS (Operational Data Store) pour l’alimentation du Data Warehouse, avec des flux gérés et orchestrés par des jobs Talend",
 
-"action20Date": "Mai 2025",
-"action20Titre": "Cartographie applicative du système d'information",
+"action20Date": "Juin-Octobre 2025",
+"action20Titre": "Mise en place d'un ESB Talend",
 "action20Categorie": "Professionnel",
 "action20Lieu": "Conseil départemental",
-"action20Description": "Etablissement de la cartographie applicative sur plusieurs niveaux de granularité, afin d'obtenir une vision microscopique/macroscopique du système d'information. Suivi d'une mise en place d'un processus de gouvernance des données visant à garantir la qualité, la traçabilité et la cohérence des flux. La visualisation de la cartographie des données a été automatisée, permettant un suivi simplifié et une transparence accrue sur l'architecture décisionnelle." ,
-
-"action21Date": "Juin-Octobre 2025",
-"action21Titre": "Mise en place d'un ESB Talend",
-"action21Categorie": "Professionnel",
-"action21Lieu": "Conseil départemental",
-"action21Description": "Dans un contexte où plusieurs applications devaient consommer le même service exposé par une application tierce, la multiplication des connexions directes entraînait une complexité accrue et un manque de cohérence dans l'architecture. Afin de rationaliser les échanges et de centraliser l’intégration, j’ai mis en place un ESB en Talend.",
-
-"action22Date": "Juin 2025",
-"action22Titre": "Projet d'entrepôt de données",
-"action22Categorie": "Professionnel",
-"action22Lieu": "Conseil départemental",
-"action22Description": "Mise en place d'une base de données PostgreSQL dédiée à l'ODS (Operational Data Store) pour l’alimentation du Data Warehouse, avec des flux gérés et orchestrés par des jobs Talend" 
-
+"action20Description": "Dans un contexte où plusieurs applications devaient consommer le même service exposé par une application tierce, la multiplication des connexions directes entraînait une complexité accrue et un manque de cohérence dans l'architecture. Afin de rationaliser les échanges et de centraliser l’intégration, j’ai mis en place un ESB en Talend."
 
 }
  

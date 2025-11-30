@@ -29,7 +29,7 @@ const Home = () => {
                     {t("presentation")}
                 </p>
 
-                <a href="mailto:kadiri.anas0000@gmail.com" className="btn btn-active btn-primary md:w-fit self-center">
+                <a href="mailto:anaskadiri@live.fr" className="btn btn-active btn-primary md:w-fit self-center">
                     <Send className="w-5 h-5 mr-2" />
                     {t("contacter_moi")}
                 </a>

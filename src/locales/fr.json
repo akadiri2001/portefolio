@@ -193,7 +193,7 @@
 "action9Titre": "Mise à jour jobs Job Talend",
 "action9Categorie": "Professionnel",
 "action9Lieu": "BNP Paribas Real Estate",
-"action9Description": "Mise en place de règles de transformation métier dans les composants `tMap` pour automatiser le nettoyage et l'enrichissement des données.",
+"action9Description": "Recueil et application de règles de transformation pour automatiser la qualité et l’enrichissement des données.",
 
 "action10Date": "Mai 2023",
 "action10Titre": "Déploiement automatisé d'un serveur web avec Ansible",

@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import Title from "./Title";
 
 // Liste des identifiants d'actions
-const actions = ["action1", "action2", "action3", "action4", "action5","action6","action7","action8","action9","action10", "action11", "action12", "action13", "action14", "action15","action16","action17","action18"
+const actions = ["action1", "action2", "action3", "action4", "action5","action6","action7","action8","action9","action10", "action11", "action12", "action13", "action14", "action15","action16","action17","action18","action19","action20"
 ];
 
 export default function Journal() {
